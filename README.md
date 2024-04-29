@@ -18,6 +18,9 @@ Run **Jarvis** from anywhere by command `jarvis`, or `./jarvis` from within the 
 
 You can start by typing `help` within the Jarvis command line to check what Jarvis can do for you.
 
+## What Can Jarvis Do
+Think of Jarvis as any other personal assistant you have used.  You can ask Jarvis "What is the weather currently in Sacramento, CA?" and he can tell you.  Jarvis can perform math problems or answer logical questions.  Jarvis can help keep track of your life by managing a todo list and handling an agenda. Jarvis can do all this and much more.  Remember, Jarvis likes to be asked specific things, try to be as detailed as possible so minimal is left up to interpretation. Remember, there is no harm in asking Jarvis something to do you currently cant do, he wont bite.
+
 ### Frequently encountered issues
 **Question**: When I run Jarvis, it shows an error relating to module not found<br>
 **Platform**: Windows<br>
@@ -44,7 +47,7 @@ If you find other issues and/or have found solutions to them on any platform, pl
 
 ## Contributing
 
-Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can contribute!
+Remember, Jarvis is open source so he gets better from the ideas and efforts of you all! Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to learn how you can contribute!
 
 ### QuickStart: Create a new feature (plugin)
 
